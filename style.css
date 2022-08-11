@@ -1,0 +1,56 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px 0px;
+    
+}
+
+
+.logo {
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+nav {
+    background-color: #2f3136;
+    list-style-type: none;
+    height: 100vh;
+    width: 268px;
+    position: absolute;
+}
+
+li {
+    padding: 10px 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.floatuser {
+    float: right;
+    background-color: #2f31367e;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    width: 200px;
+}
+
+.inline {
+    display: inline;
+    padding: 0px 0px 0px 0px;
+}
+
+.full {
+    padding: 10px 10px 10px 10px;
+    position: absolute;
+}
+
+.marg {
+  
+    float: right;
+    padding-right: 50px;
+    margin-top: 28px
+}
+
+
